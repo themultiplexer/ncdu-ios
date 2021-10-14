@@ -1,0 +1,8 @@
+Package: com.arx.ncdu
+Name: ncdu
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: new curses disk usage
+Maintainer: Joshua Rutschmann
+Author: Joshua Rutschmann
+Section: Tweaks
